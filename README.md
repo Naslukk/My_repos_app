@@ -39,4 +39,4 @@ GitHub API for providing the repository data.
 Naslu kk
 
 ## Contact
-If you have any questions or need assistance with the project, feel free to reach out to me at naslukk@email.com.
+If you have any questions or need assistance with the project, feel free to reach out to me at naslukk@gmail.com .
